@@ -1,0 +1,7 @@
+build/
+out/
+.cache/
+.vscode/
+.idea/
+CMakeUserPresets.json
+deps/

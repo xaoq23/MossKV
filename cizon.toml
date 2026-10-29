@@ -1,0 +1,7 @@
+[project]
+name = "mosskv"
+edition = "c++17"
+
+[compiler]
+flags = ["-Wall", "-Wextra", "-Wpedantic"]
+cpp = "clang++"
