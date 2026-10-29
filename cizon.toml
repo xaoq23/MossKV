@@ -1,7 +1,6 @@
 [project]
 name = "mosskv"
 edition = "c++17"
-version = "0.1.1"
 
 [compiler]
 flags = ["-Wall", "-Wextra", "-Wpedantic"]
