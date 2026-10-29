@@ -7,7 +7,7 @@
 
 namespace {
 
-constexpr std::string_view kVersion = "0.1.0";
+constexpr std::string_view kVersion = "0.1.1";
 constexpr std::string_view kDefaultDatabasePath = "data";
 
 void print_error(std::ostream& output, const std::string& message) {
